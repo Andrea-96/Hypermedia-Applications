@@ -1,0 +1,6 @@
+{
+  "name": "Node.js API for hypermedi19 projet",
+  "description": "A  Node.js app using Express 4 for connect mongo DB to the site, providing API fot the site",
+  "repository": "https://github.com/marcoselva/hypermedia19",
+  "keywords": ["node", "express", "static"]
+}
